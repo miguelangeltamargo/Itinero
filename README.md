@@ -208,6 +208,22 @@ crime_classifier = CrimeClassifier()
 You can use any of its functions freely.
 
 ## A short demo of how to utilize the feature can be found in "Itinero/backend/app/__init__.py"
+## Project Origin  
+This project was my initiative, proposed as a class project in 2022. While hosted under [@alec0322](https://github.com/alec0322)'s repository, I led development and contributed the majority of the codebase.
 
+## Attribution  
+Developed in collaboration with:  
+- [@alec0322](https://github.com/alec0322)  
+- [@hamzo23](https://github.com/hamzo23)  
+- [@csole014](https://github.com/csole014)  
+- [@CrisBlu](https://github.com/CrisBlu)  
+- [@frsant](https://github.com/frsant)  
 
-
+**Original repository**: [Itinero](https://github.com/alec0322/Itinero)  
+**My contributions**:  
+- **Led backend architecture and API design**: Established the foundational structure for the project, ensuring seamless integration between components.  
+- **Contributed 33 commits (35% of total)**: Focused on backend implementation, authentication, and ensuring the product ran end-to-end.  
+- **Designed and implemented the authentication flow**: Used to secure user data and enable seamless login functionality.  
+- **Collaborated on ML model integration**: Worked with teammates to integrate machine learning features and ensure the system was production-ready.  
+- **Improved frontend stability**: Debugged and resolved crashes, ensuring a smoother user experience.  
+- **Ensured project continuity**: Acted as the primary developer for setup and integration, enabling the team to build on a stable foundation.  
