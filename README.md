@@ -209,7 +209,7 @@ You can use any of its functions freely.
 
 ## A short demo of how to utilize the feature can be found in "Itinero/backend/app/__init__.py"
 ## Project Origin  
-This project was my initiative, proposed as a class project in 2022. While hosted under [@alec0322](https://github.com/alec0322)'s repository, I led development and contributed the majority of the codebase.
+This project was my initiative, proposed as a class project in 2023. While hosted under [@alec0322](https://github.com/alec0322)'s repository, I led development and contributed the majority of the codebase.
 
 ## Attribution  
 Developed in collaboration with:  
